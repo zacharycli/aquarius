@@ -10,7 +10,9 @@ table{
 p{
 	font-size: 18px;
 }
-
+.opener{
+	font-size: 72px;
+}
 
 .news {
   text-decoration: none;
