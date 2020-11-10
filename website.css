@@ -21,15 +21,6 @@ p{
 	font-size: 18px;
 }
 
-Button{
-	/* #0044FF */
-	background-color: #0044FF;
-	border-radius: 25px;
-	font-size: 18px;
-}
-Button:hover{
-	/*#659FFF*/
-	background-color: #FFCF00;
 }
 li {
   float: left;
@@ -50,9 +41,9 @@ li a {
 
 
 li a:hover {
-  background-color: #00DD00;
+  background-color: #ffff00;
 }
 .active {
 	/* background-color: #4CAF50;*/
-	background-color: #4Caf50;
+	background-color: #ffcf00;
 }
