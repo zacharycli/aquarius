@@ -81,3 +81,13 @@ p{
 .active {
   background-color: #4CAF50;
 }
+.dropdown .dropbtn .active{
+  font-size: 16px;  
+  border: none;
+  outline: none;
+  color: #000;
+  padding: 14px 16px;
+  background-color: #4CAF50;
+  font-family: inherit;
+  margin: 0;
+}
