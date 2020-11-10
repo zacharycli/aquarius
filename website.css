@@ -1,5 +1,5 @@
 table, td, th{
-	border: 2px;
+	border: 0px;
 }
 table{
 	width:100%;
@@ -21,6 +21,13 @@ p{
 	font-size: 18px;
 }
 
+Button{
+	background-color: #0044FF;
+	border-radius: 25px;
+	font-size: 18px;
+}
+Button:hover{
+	background-color: #659FFF
 }
 li {
   float: left;
@@ -41,9 +48,8 @@ li a {
 
 
 li a:hover {
-  background-color: #ffff00;
+  background-color: #00DD00;
 }
 .active {
-	/* background-color: #4CAF50;*/
-	background-color: #ffcf00;
+  background-color: #4CAF50;
 }
